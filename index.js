@@ -1,3 +1,4 @@
+//Simple tradebot binance by mcbk
 const ccxt = require('ccxt');
 const moment = require('moment');
 const delay = require('delay');
